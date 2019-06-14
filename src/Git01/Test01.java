@@ -17,7 +17,7 @@ public class Test01 {
 		System.out.println("ggg");
 		System.out.println("hhh");
 		
-		System.out.println("�ǵĿμ��μ�");
+		System.out.println("上世纪九十");
 
 	}
 
